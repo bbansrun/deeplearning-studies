@@ -2,7 +2,7 @@
 Team bbansrun 의 딥러닝 스터디를 위한 repo.
 
 ## 주차 별 커리큘럼
-1주차 모두를 위한 딥러닝 (Regression 부분 전체) 
+1주차 모두를 위한 딥러닝 (Regression 부분 전체)  
 2주차 모두를 위한 딥러닝 (CNN 전)  
 3주차 CNN  
 4주차 RNN  
