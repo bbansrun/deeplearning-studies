@@ -27,18 +27,15 @@
       - Definition of Hypothesis Function of Logistic Classification
       - Cost Function of Logistic Regression
       - Materialization (Tensorflow)
-    - **Softmax Regression**
-      - Basic Concept of **Multi-nomial**
-      - Cost Function
-      - Materialization (Tensorflow)
+      - ***캐글 데이터 활용 실습 1가지 진행, 기존 classification 코드 decode_csv 적용 코드 변경 연습***
 
 
 
 
 ### 2주차 (CNN 전)  
-###3주차 (CNN)  
+### 3주차 (CNN)  
 ### 4주차 (RNN)  
-###5주차 이후  
+### 5주차 이후  
 
 - 패스트캠퍼스 커리큘럼 참고 추가 개념 공부 및 toy proj. 진행  
 
